@@ -20,7 +20,7 @@ function totalShoppingCost(prices){
 const shoppingCost = totalShoppingCost(shopping);
 // console.log('Total shopping cost is :', shoppingCost);
 
-
+// find total cost ammount in shopping 
 function totalBazar(total){
     let totalTaka = 0;
     for(let num of total){
